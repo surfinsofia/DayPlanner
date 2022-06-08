@@ -1,1 +1,1 @@
-Day planner to plan your life
+Day planner to get your life together 
