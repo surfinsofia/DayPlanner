@@ -1,8 +1,8 @@
 Day planner to get your life together!
 
-Are you always late?
-Do you have a bad sense of time as it passes by?
-Are you often overwhelmed by the randomness of it all?
+Are you always late? <br/>
+Do you have a bad sense of time as it passes by?<br/>
+Are you often overwhelmed by the randomness of it all?<br/>
 
 Me too!!!
 
