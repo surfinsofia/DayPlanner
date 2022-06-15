@@ -10,6 +10,6 @@ Attempt to go against the laws of randomness by planning your day using this use
 
 
 Link to deployed application:
-https://surfinsofia.github.io/dayPlanner/
+https://surfinsofia.github.io/DayPlanner/
 
 ![screenshot](./assets/screenshot.png)
